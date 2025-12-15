@@ -1,0 +1,33 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "service": 22,
+                "capacity": 945
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.722991409943504,
+                    60.041521674054763
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "service": 22,
+                "capacity": 680
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.7031813218331,
+                    60.043538373520782
+                ]
+            }
+        }
+    ]
+}
