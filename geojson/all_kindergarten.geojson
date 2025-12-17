@@ -70,6 +70,20 @@
                     60.039734398887276
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "service": 21,
+                "capacity": 200
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.71015,
+                    60.03844
+                ]
+            }
         }
     ]
 }
